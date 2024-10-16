@@ -20,10 +20,10 @@ Our mission is to empower businesses by crafting technology-driven solutions tha
 
 ### 1. Web Development
 We create responsive, high-performance websites and web applications using the latest technologies, such as:
+- React, Dart, JAVA,
+- Node.js, Express.js, .Net, Laravel, PHP
 - HTML, CSS, JavaScript
-- React, Angular, Vue.js
-- Node.js, Django, Laravel
-- WordPress, Shopify, Magento
+- WordPress, Shopify
 
 ### 2. Software Development
 Our custom software solutions are built to streamline your operations. We specialize in:
