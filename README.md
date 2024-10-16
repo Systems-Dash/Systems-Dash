@@ -60,4 +60,4 @@ Contact Us
 Have questions or want to work with us? Feel free to get in touch:
 
 Website: www.systemsdash.com
-Email: contact@systemsdash.com
+Email: info@systemsdash.com
